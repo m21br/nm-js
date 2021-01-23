@@ -1,3 +1,1 @@
-# JS Basics
-
-Repository for the JS-Basics Nomad Academy Course. Cloning a Productivity App with VanillaJS
+# 2020년 바닐라JS 강의코드
